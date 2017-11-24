@@ -1,4 +1,4 @@
-TARGETS=set(['xxxx'])
+TARGETS=set(['XXXX'])
 AUTO=['嗯？','谁@我，我就嫁给谁','XXL就是我爸呀','你猜']
 FOLDER="data/tmp/"
 AI_SHUTUP=0
